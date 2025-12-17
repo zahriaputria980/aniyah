@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.ico",
   },
+  other: {
+    "facebook-domain-verification": "sok0ta6qq24tctmefgos27pdndx4a9",
+  },
   openGraph: {
     title: "ANIYAH - Produsen Beras Berkualitas Terpercaya",
     description: "Menyediakan beras pilihan dengan kualitas premium untuk setiap rumah tangga Indonesia",
